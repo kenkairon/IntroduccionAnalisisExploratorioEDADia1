@@ -1,6 +1,8 @@
 # 🧪 Primer EDA en dataset de ventas e-commerce
 
-Practical exercise to apply the concepts learned.
+| Autor            | Fecha        | Día |
+|------------------|--------------|----------|
+| **Carlos Vásquez** |5 Diciembre 2025 | 1|
 
 ## ✅ Objetivo
 
